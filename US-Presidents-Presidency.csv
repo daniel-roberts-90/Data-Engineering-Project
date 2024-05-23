@@ -1,0 +1,47 @@
+﻿ID,President,start of presidency,end of presidency,Net worth(millions),Political party,Years in office
+1,George Washington,"57 years, 67 days","65 years, 10 days",707,None/Independent,1789–1797
+2,John Adams,"61 years, 125 days","65 years, 125 days",25,Federalist,1797–1801
+3,Thomas Jefferson,"57 years, 325 days","65 years, 325 days",284,Democratic-Republican,1801–1809
+4,James Madison,"57 years, 353 days","65 years, 353 days",136,Democratic-Republican,1809–1817
+5,James Monroe,"58 years, 310 days","66 years, 310 days",36,Democratic-Republican,1817–1825
+6,John Quincy Adams,"57 years, 236 days","61 years, 236 days",27,Democratic-Republican,1825–1829
+7,Andrew Jackson,"61 years, 354 days","69 years, 354 days",159,Democratic,1829–1837
+8,Martin Van Buren,"54 years, 89 days","58 years, 89 days",34,Democratic,1837–1841
+9,William Henry Harrison,"68 years, 23 days","68 years, 54 days",7,Whig,1841
+10,John Tyler,"51 years, 6 days","54 years, 340 days",68,Whig / None,1841–1845
+11,James K. Polk,"49 years, 122 days","53 years, 122 days",13,Democratic,1845–1849
+12,Zachary Taylor,"64 years, 100 days","65 years, 227 days",8,Whig,1849–1850
+13,Millard Fillmore,"50 years, 183 days","53 years, 56 days",5,Whig,1850–1853
+14,Franklin Pierce,"48 years, 101 days","52 years, 101 days",2,Democratic,1853–1857
+15,James Buchanan,"65 years, 315 days","69 years, 315 days",<1,Democratic,1857–1861
+16,Abraham Lincoln,"52 years, 20 days","56 years, 62 days",<1,Republican / National Union,1861–1865
+17,Andrew Johnson,"56 years, 107 days","60 years, 65 days",<1,National Union / Democratic,1865–1869
+18,Ulysses S. Grant,"46 years, 311 days","54 years, 311 days",<1,Republican,1869–1877
+19,Rutherford B. Hayes,"54 years, 151 days","58 years, 151 days",3,Republican,1877–1881
+20,James A. Garfield,"49 years, 105 days","49 years, 304 days",<1,Republican,1881
+21,Chester A. Arthur,"51 years, 349 days","55 years, 150 days",<1,Republican,1881–1885
+22,Grover Cleveland,"47 years, 351 days","51 years, 351 days",33,Democratic,1885–1889
+23,Benjamin Harrison,"55 years, 196 days","59 years, 196 days",7,Republican,1889–1893
+24,Grover Cleveland,"55 years, 351 days","59 years, 351 days",33,Democratic,1885–1889
+25,William McKinley,"54 years, 34 days","58 years, 228 days",1,Republican,1897–1901
+26,Theodore Roosevelt,"42 years, 322 days","50 years, 128 days",168,Republican,1901-1909
+27,William Howard Taft,"51 years, 170 days","55 years, 170 days",3,Republican,1909–1913
+28,Woodrow Wilson,"56 years, 66 days","64 years, 66 days",<1,Democratic,1913–1921
+29,Warren G. Harding,"55 years, 122 days","57 years, 273 days",1,Republican,1921–1923
+30,Calvin Coolidge,"51 years, 29 days","56 years, 243 days",<1,Republican,1923–1929
+31,Herbert Hoover,"54 years, 206 days","58 years, 206 days",100,Republican,1929–1933
+32,Franklin D. Roosevelt,"51 years, 33 days","63 years, 72 days",79,Democratic,1933–1945
+33,Harry S. Truman,"60 years, 339 days","68 years, 257 days",<1,Democratic,1945–1953
+34,Dwight D. Eisenhower,"62 years, 98 days","70 years, 98 days",10,Republican,1953–1961
+35,John F. Kennedy,"43 years, 236 days","46 years, 177 days",99,Democratic,1961–1963
+36,Lyndon B. Johnson,"55 years, 87 days","60 years, 146 days",131,Democratic,1963–1969
+37,Richard Nixon,"56 years, 11 days","61 years, 212 days",20,Republican,1969–1974
+38,Gerald Ford,"61 years, 26 days","63 years, 190 days",9,Republican,1974–1977
+39,Jimmy Carter,"52 years, 111 days","56 years, 111 days",9,Democratic,1977–1981
+40,Ronald Reagan,"69 years, 349 days","77 years, 349 days",16,Republican,1981–1989
+41,George H. W. Bush,"64 years, 222 days","68 years, 222 days",31,Republican,1989–1993
+42,Bill Clinton,"46 years, 154 days","54 years, 154 days",90,Democratic,1993–2001
+43,George W. Bush,"54 years, 198 days","62 years, 198 days",47,Republican,2001–2009
+44,Barack Obama,"47 years, 169 days","55 years, 169 days",48,Democratic,2009–2017
+45,Donald Trump,"70 years, 220 days","74 years, 220 days","3,000",Republican,2017–2021
+46,Joe Biden,"78 years, 61 days",(incumbent),10,Democratic,2021–present

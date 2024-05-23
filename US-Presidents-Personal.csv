@@ -1,0 +1,47 @@
+﻿ID,President,Number of kids,Number of marriages,State,Education,Degree
+1,George Washington,0,1,Virginia,No formal education,N/A
+2,John Adams,5,1,Massachusetts,Harvard College (graduated in 1755),A.B.
+3,Thomas Jefferson,6,1,Virginia,The College of William & Mary (graduated in 1762),B.A.
+4,James Madison,0,1,Virginia,The College of New Jersey (now Princeton University),B.A.
+5,James Monroe,3,1,Virginia,The College of William & Mary (did not graduate),N/A
+6,John Quincy Adams,4,1,Massachusetts,Harvard College (graduated in 1787),A.B.
+7,Andrew Jackson,3,1,Tennessee,No formal education,N/A
+8,Martin Van Buren,5,1,New York,Kinderhook Academy (did not graduate),N/A
+9,William Henry Harrison,10,1,Virginia,University of Pennsylvania (did not graduate),N/A
+10,John Tyler,15,2,Virginia,The College of William & Mary (graduated in 1807),B.A.
+11,James K. Polk,0,1,North Carolina,University of North Carolina at Chapel Hill (graduated in 1818),A.B.
+12,Zachary Taylor,6,1,Virginia,No formal education,N/A
+13,Millard Fillmore,2,1,New York,No formal education,N/A
+14,Franklin Pierce,3,1,New Hampshire,Bowdoin College (graduated in 1824),B.A.
+15,James Buchanan,0,1,Pennsylvania,Dickinson College (graduated in 1809),A.B.
+16,Abraham Lincoln,4,1,Illinois,No formal education; apprenticed as a lawyer,N/A
+17,Andrew Johnson,5,1,North Carolina,No formal education,N/A
+18,Ulysses S. Grant,4,1,Ohio,United States Military Academy (graduated in 1843),B.S.
+19,Rutherford B. Hayes,8,1,Ohio,Kenyon College (graduated in 1842),A.B.
+20,James A. Garfield,7,1,Ohio,Williams College (graduated in 1856),A.B.
+21,Chester A. Arthur,3,1,New York,Union College (graduated in 1848),B.A.
+22,Grover Cleveland,5,2,New York,No formal education,N/A
+23,Benjamin Harrison,2,1,Indiana,Miami University (graduated in 1852),A.B.
+24,Grover Cleveland,5,2,New York,No formal education,N/A
+25,William McKinley,2,1,Ohio,Allegheny College (did not graduate),N/A
+26,Theodore Roosevelt,6,2,New York,Harvard College (graduated in 1880),A.B. (magna cum laude)
+27,William Howard Taft,3,1,Ohio,Yale College (graduated in 1878),B.A. (second in his class); M.A.
+28,Woodrow Wilson,3,2,Virginia,Princeton University (graduated in 1879),B.A. (cum laude); Ph.D. (in political science)
+29,Warren G. Harding,0,1,Ohio,Ohio Central College (did not graduate),N/A
+30,Calvin Coolidge,2,1,Vermont,Amherst College (graduated in 1895),A.B.
+31,Herbert Hoover,2,1,Iowa,Stanford University (graduated in 1895),B.A. (Geology); M.A. (Geology)
+32,Franklin D. Roosevelt,6,1,New York,Harvard College (graduated in 1903),"A.B. (in history); J.D. (Columbia Law School, 1908)"
+33,Harry S. Truman,1,1,Missouri,University of Missouri–Kansas City Law School (did not graduate),N/A
+34,Dwight D. Eisenhower,2,1,Texas,United States Military Academy (graduated in 1915),B.S.
+35,John F. Kennedy,4,1,Massachusetts,Harvard College (graduated in 1940),B.S. (in international affairs)
+36,Lyndon B. Johnson,2,1,Texas,Southwest Texas State Teachers College (did not graduate),N/A
+37,Richard Nixon,2,1,California,Whittier College (graduated in 1934),B.A.
+38,Gerald Ford,4,1,Nebraska,University of Michigan (graduated in 1935),B.A.
+39,Jimmy Carter,4,1,Georgia,United States Naval Academy (graduated in 1946),B.S.
+40,Ronald Reagan,5,2,Illinois,Eureka College (did not graduate),N/A
+41,George H. W. Bush,6,1,Texas,Yale University (graduated in 1948),B.A.
+42,Bill Clinton,1,1,Arkansas,"Georgetown University (attended in 1964), University of Oxford (attended in 1968 as a Rhodes Scholar), Yale Law School (graduated in 1973)","B.S. (in Foreign Service), law degree (J.D.)"
+43,George W. Bush,2,1,Texas,"Yale University (graduated in 1968), Harvard Business School (graduated in 1975)","B.A. (in history), M.B.A."
+44,Barack Obama,2,1,Hawaii,"Occidental College (attended from 1979 to 1981), Columbia University (graduated in 1983), Harvard Law School (graduated in 1991)","B.A. (in political science), law degree (J.D.)"
+45,Donald Trump,5,3,New York,"Fordham University (attended from 1964 to 1966), Wharton School of the University of Pennsylvania (graduated in 1968)",B.S. (in economics)
+46,Joe Biden,4,2,Delaware,"University of Delaware (graduated in 1965), Syracuse University College of Law (graduated in 1968)","B.A. (in history), law degree (J.D.)"
